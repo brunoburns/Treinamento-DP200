@@ -20,6 +20,10 @@ https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10
 
 https://docs.microsoft.com/en-us/powershell/
 
+**Arquitetura Lambda e kappa:**
+
+https://docs.microsoft.com/pt-br/azure/architecture/data-guide/big-data/
+
 ## Links para Documentação Oficial:
 
 **Azure Blob Storage:**
